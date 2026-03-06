@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AI Candidate Screnning**
+- 🔭 I’m currently working on **RentPe**
 
-- 🌱 I’m currently learning **Machine Learning,NLP**
+- 🌱 I’m currently learning **Cloud Computing, Rust**
 
-- 💬 Ask me about **Frontend,Backend,UI**
+- 💬 Ask me about **Architecture and Software Development**
 
 - 📫 How to reach me **pranav8175@gmail.com**
 
