@@ -28,7 +28,7 @@
 
 ---
 
-### 🧩 Featured Projects
+### 🧩 Recent Project
 
 **[AlphaFox](#)** — AI-Powered Crypto Portfolio Manager
 
@@ -48,24 +48,24 @@ Modern AI-powered cryptocurrency portfolio management platform that lets users s
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Nearbycarts](#)** – Hyperlocal Commerce Platform | React.js, TypeScript, Node.js, Express, MongoDB, JWT | Geospatial search & aggregation pipelines; cut search latency by **28%**, sub-second responses |
+| **[Nearbycarts](https://nearbycarts.in)** – Hyperlocal Commerce Platform | React.js, TypeScript, Node.js, Express, MongoDB, JWT | Geospatial search & aggregation pipelines; cut search latency by **28%**, sub-second responses |
 | **[RentPe](#)** – P2P Rental Marketplace | React.js, Node.js, MongoDB, Docker, AWS (EC2, S3, CloudFront, IAM), Nginx | Serving **50+ students**; containerized deployment on EC2, CDN-optimized media delivery |
 | **[LedgerX](#)** – Digital Payment Backend | Node.js, Express, MongoDB, JWT, OAuth2, Nodemailer | Immutable ledger with double-entry accounting and secure auditability |
 
-> Tip: replace the `#` links above with your actual GitHub repo / live demo URLs.
+
 
 ---
 
 ### 📜 Licenses & Certifications
 
-- **GenAI** — Meta *(Skills: Large Language Models (LLM), Retrieval-Augmented Generation (RAG), +4 skills)*
+- **GenAI** — Meta *(Skills: Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Vector Database(Pinecone,ChromaDB)*
 - **IBM Full Stack Software Developer Professional Certificate** — IBM *(Skills: Full-Stack Development)*
-- **IBM Certified Solution Architect – Cloud Computing Infrastructure V1** — IBM *(Skills: Cloud Computing, Virtualization, +5 skills)*
-- **Introduction to Artificial Intelligence (AI)** — Google *(Skills: Artificial Intelligence (AI), Prompt Engineering, +1 skill)*
-- **Prompting Essentials** — Google *(Skills: Prompting Techniques, Conversational AI, +3 skills)*
-- **Big Data Modeling and Management Systems** — UC San Diego *(Skills: Redis, Data Processing Techniques, +3 skills)*
-- **SEO Optimization** — University of California, Davis *(Skills: Search Engine Optimization (SEO), Content Marketing, +3 skills)*
-- **Business English Communication** — University of Washington *(Skills: Business Communications, Presentation Skills, +3 skills)*
+- **IBM Certified Solution Architect – Cloud Computing Infrastructure V1** — IBM *(Skills: Cloud Computing, Virtualization)*
+- **Introduction to Artificial Intelligence (AI)** — Google *(Skills: Artificial Intelligence (AI), Prompt Engineering)*
+- **Prompting Essentials** — Google *(Skills: Prompting Techniques, Conversational AI)*
+- **Big Data Modeling and Management Systems** — UC San Diego *(Skills: Redis, Data Processing Techniques)*
+- **SEO Optimization** — University of California, Davis *(Skills: Search Engine Optimization (SEO), Content Marketing)*
+- **Business English Communication** — University of Washington *(Skills: Business Communications, Presentation Skills)*
 
 ---
 
