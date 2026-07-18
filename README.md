@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 - 🛠️ Building **production-grade backend systems, scalable APIs, and cloud-native platforms**
-- 💼 Currently building **RentPe** — a peer-to-peer rental marketplace live in production
+- 💼 I'm currently working on building an AI-powered startup focused on solving real-world problems.
 - 🤖 Exploring **GenAI, RAG pipelines, and vector search** to build intelligent applications
 - 📈 Products I've built are used by **500+ users** and recognized by **Startup India**
 - 🌱 Currently learning **Cloud Architecture & Rust**
@@ -30,19 +30,24 @@
 
 ### 🧩 Recent Project
 
-**[AlphaFox](#)** — AI-Powered Crypto Portfolio Manager
+**Wait2Go** — AI Travel Intelligence Platform 
 
-Modern AI-powered cryptocurrency portfolio management platform that lets users securely track, analyze, and manage digital assets in real time — combining live market data, portfolio analytics, AI insights, and secure authentication into one scalable web app.
+Wait2Go is an AI-powered travel intelligence platform that redefines how people book bus and train tickets. Instead of forcing users to repeatedly check prices across booking platforms, Wait2Go continuously monitors fares, seat availability, demand trends, and historical pricing in the background, then recommends the optimal moment to book.
 
-- 📊 **Real-Time Portfolio Tracking** — live price updates, current portfolio value, profit/loss, asset allocation
-- 📈 **Advanced Analytics Dashboard** — interactive charts, daily/weekly/monthly/yearly analysis, gain/loss visualization
-- 🤖 **AI-Powered Insights** — market trend analysis, personalized investment suggestions, risk analysis, natural-language market summaries
-- 🔒 **Secure Authentication** — JWT-based auth, bcrypt password encryption, protected routes and sessions
-- 💼 **Portfolio Management** — add/update/remove assets, buy/sell transaction tracking, average buy price and realized/unrealized profit tracking
-- 🌐 **Live Market Data** — real-time prices via external APIs, trending coins, top gainers, market stats
-- 📱 **Responsive UI** — modern dark-themed interface, mobile-friendly, fast and intuitive
+The vision is simple: booking travel should be proactive, not reactive.
 
-**Tech Stack:** React.js, Tailwind CSS, Chart.js/Recharts, Axios · Node.js, Express.js · MongoDB, Mongoose · JWT, bcrypt · CoinGecko API
+Behind the scenes, autonomous AI agents collect live pricing data, analyze market behavior, detect fare movement patterns, and generate real-time booking recommendations. Rather than showing users today's cheapest ticket, Wait2Go predicts whether waiting could save money or whether prices are likely to rise, helping travelers make data-driven decisions.
+
+The platform is being built with a scalable, event-driven architecture using React, Node.js, Express.js, MongoDB, Redis, LangGraph, and modern LLM technologies, enabling intelligent workflows, background monitoring, automated notifications, and personalized travel insights.
+
+Key Features
+🤖 AI-powered fare prediction using historical and live pricing data.
+📈 Continuous background monitoring without requiring users to repeatedly search.
+🔔 Intelligent "Book Now" or "Wait" recommendations with reasoning.
+📊 Real-time tracking of prices, seat availability, operator ratings, and demand.
+⚡ Event-driven notification system via Email, WhatsApp, or Push Notifications.
+🧠 Multi-agent architecture capable of autonomous monitoring and decision-making.
+☁️ Cloud-native, scalable backend designed for thousands of concurrent monitoring jobs.
 
 ---
 
