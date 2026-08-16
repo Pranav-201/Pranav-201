@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pranav Amrutkar 👋</h1>
+<h1 align="center">Hi, I'm Pranav Amrutkar </h1>
 <h3 align="center">Software Developer | Backend Systems & Scalable APIs | AI, Cloud & MERN Stack</h3>
 
 <p align="center">
