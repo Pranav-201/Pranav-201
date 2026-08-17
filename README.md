@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Pranav Amrutkar </h1>
-<h3 align="center">Software Developer | Backend Systems & Scalable APIs | AI, Cloud & MERN Stack</h3>
+<h1 align="center">Hi, I'm Pranav Amrutkar</h1>
+<h3 align="center">Backend & Full-Stack Engineer | Scalable Systems, AI/Agentic Pipelines & Cloud</h3>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/pranavamrutkar20" target="_blank">
@@ -16,65 +16,75 @@
 
 ---
 
-### 🚀 About Me
+### About
 
-- 🛠️ Building **production-grade backend systems, scalable APIs, and cloud-native platforms**
-- 💼 I'm currently working on building an AI-powered startup focused on solving real-world problems.
-- 🤖 Exploring **GenAI, RAG pipelines, and vector search** to build intelligent applications
-- 📈 Products I've built are used by **500+ users** and recognized by **Startup India**
-- 🌱 Currently learning **Cloud Architecture & Rust**
-- 💬 Ask me about **system design, backend architecture, and GenAI/RAG systems**
-- 📫 Reach me at **pranav8175@gmail.com**
+I design and build backend systems and full-stack products end to end — from data modeling and API architecture to deployment. My focus is on systems that hold up under real usage: proper caching strategy, auth done correctly, and services that don't fall over under load.
 
----
-
-### 🧩 Recent Project
-
-**Wait2Go** — AI Travel Intelligence Platform 
-
-Wait2Go is an AI-powered travel intelligence platform that redefines how people book bus and train tickets. Instead of forcing users to repeatedly check prices across booking platforms, Wait2Go continuously monitors fares, seat availability, demand trends, and historical pricing in the background, then recommends the optimal moment to book.
-
-The vision is simple: booking travel should be proactive, not reactive.
-
-Behind the scenes, autonomous AI agents collect live pricing data, analyze market behavior, detect fare movement patterns, and generate real-time booking recommendations. Rather than showing users today's cheapest ticket, Wait2Go predicts whether waiting could save money or whether prices are likely to rise, helping travelers make data-driven decisions.
-
-The platform is being built with a scalable, event-driven architecture using React, Node.js, Express.js, MongoDB, Redis, LangGraph, and modern LLM technologies, enabling intelligent workflows, background monitoring, automated notifications, and personalized travel insights.
-
-Key Features
-🤖 AI-powered fare prediction using historical and live pricing data.
-📈 Continuous background monitoring without requiring users to repeatedly search.
-🔔 Intelligent "Book Now" or "Wait" recommendations with reasoning.
-📊 Real-time tracking of prices, seat availability, operator ratings, and demand.
-⚡ Event-driven notification system via Email, WhatsApp, or Push Notifications.
-🧠 Multi-agent architecture capable of autonomous monitoring and decision-making.
-☁️ Cloud-native, scalable backend designed for thousands of concurrent monitoring jobs.
+- 🏗️ Currently building **[Zingoo](#)** — a next-generation Node.js framework for modern backend development
+- 🧠 Working with **agentic AI systems** — LangGraph-based multi-agent pipelines, RAG, and vector search in production workflows
+- 📈 Shipped products used by **500+ users**, recognized by **Startup India**
+- ⚙️ Comfortable across the stack: React/Next.js on the frontend, Node.js/Express on the backend, MongoDB/PostgreSQL/Redis for data
+- ☁️ Learning **cloud architecture** and **Rust** in depth
+- 💬 Happy to talk system design, backend architecture, or GenAI/RAG systems
+- 📫 **pranav8175@gmail.com**
 
 ---
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **[Nearbycarts](https://nearbycarts.in)** – Hyperlocal Commerce Platform | React.js, TypeScript, Node.js, Express, MongoDB, JWT | Geospatial search & aggregation pipelines; cut search latency by **28%**, sub-second responses |
-| **[RentPe](#)** – P2P Rental Marketplace | React.js, Node.js, MongoDB, Docker, AWS (EC2, S3, CloudFront, IAM), Nginx | Serving **50+ students**; containerized deployment on EC2, CDN-optimized media delivery |
-| **[LedgerX](#)** – Digital Payment Backend | Node.js, Express, MongoDB, JWT, OAuth2, Nodemailer | Immutable ledger with double-entry accounting and secure auditability |
+### Featured Projects
 
+**[Wait2Go](#) — AI Travel Intelligence Platform**
+Continuously monitors bus/train fares, seat availability, and demand trends in the background, then recommends the optimal moment to book — instead of making users repeatedly check prices themselves.
+`React` `Node.js` `Express` `MongoDB` `Redis` `LangGraph` `LLMs`
+- Event-driven architecture with autonomous agents for live data collection and fare-trend analysis
+- AI-generated "Book Now" vs "Wait" recommendations with reasoning, not just a price number
+- Background monitoring designed to scale to thousands of concurrent tracking jobs
 
+**[NearbyCarts](https://nearbycarts.in) — Hyperlocal Commerce Platform**
+A geospatial marketplace connecting users with nearby local vendors in real time.
+`React.js` `TypeScript` `Node.js` `Express` `MongoDB` `JWT`
+- Geospatial search with MongoDB aggregation pipelines — cut search latency by **28%**
+- Fuzzy search (Levenshtein-based) for typo-tolerant vendor/product discovery
+- Recognized by **Startup India**
+
+**Zingoo — Node.js Backend Framework** *(in progress)*
+A next-generation Node.js framework built to make production-grade backend development faster and more structured out of the box, without fighting the framework to get there.
+`Node.js` `Framework Design` `Backend Architecture`
+- Designing core conventions for routing, middleware, and project structure aimed at reducing backend boilerplate
+- Built from patterns pulled directly from shipping real production backends, not theory
 
 ---
 
-### 📜 Licenses & Certifications
+### Contribution Activity
 
-- **GenAI** — Meta *(Skills: Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Vector Database(Pinecone,ChromaDB)*
-- **IBM Full Stack Software Developer Professional Certificate** — IBM *(Skills: Full-Stack Development)*
-- **IBM Certified Solution Architect – Cloud Computing Infrastructure V1** — IBM *(Skills: Cloud Computing, Virtualization)*
-- **Introduction to Artificial Intelligence (AI)** — Google *(Skills: Artificial Intelligence (AI), Prompt Engineering)*
-- **Prompting Essentials** — Google *(Skills: Prompting Techniques, Conversational AI)*
-- **Big Data Modeling and Management Systems** — UC San Diego *(Skills: Redis, Data Processing Techniques)*
-- **SEO Optimization** — University of California, Davis *(Skills: Search Engine Optimization (SEO), Content Marketing)*
-- **Business English Communication** — University of Washington *(Skills: Business Communications, Presentation Skills)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=pranav-201&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-201&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranav-201/pranav-201/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="95%"/>
+</p>
 
 ---
 
-### 🧰 Tech Stack
+### Licenses & Certifications
+
+- **GenAI** — Meta *(LLMs, RAG, Vector Databases — Pinecone, ChromaDB)*
+- **IBM Full Stack Software Developer Professional Certificate** — IBM
+- **IBM Certified Solution Architect – Cloud Computing Infrastructure V1** — IBM
+- **Introduction to Artificial Intelligence (AI)** — Google
+- **Prompting Essentials** — Google
+- **Big Data Modeling and Management Systems** — UC San Diego *(Redis, Data Processing)*
+- **SEO Optimization** — UC Davis
+- **Business English Communication** — University of Washington
+
+---
+
+### Tech Stack
 
 **Languages**
 <p align="left">
@@ -128,9 +138,6 @@ Key Features
 <img src="https://img.shields.io/badge/Vector_Embeddings-6E40C9?style=for-the-badge&logo=semanticweb&logoColor=white" title="Vector Embeddings" alt="Vector Embeddings"/>&nbsp;
 <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" title="LLM Integration" alt="LLM Integration"/>
 </p>
-
----
-
 
 ---
 
