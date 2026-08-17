@@ -56,21 +56,12 @@ A next-generation Node.js framework built to make production-grade backend devel
 
 ### Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=pranav-201&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-201&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-201/Pranav-201/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/Pranav-201/Pranav-201/output/github-contribution-grid-snake.svg" width="95%"/>
-  </picture>
-</p>
+
 
 ---
 
