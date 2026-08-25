@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pranav Amrutkar</h1>
-<h3 align="center">Backend & Full-Stack Engineer | Scalable Systems, AI/Agentic Pipelines & Cloud</h3>
+<h3 align="center">Software Developer | Scalable Systems, AI/Agentic Pipelines & Cloud</h3>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/pranavamrutkar20" target="_blank">
@@ -53,14 +53,6 @@ A next-generation Node.js framework built to make production-grade backend devel
 - Built from patterns pulled directly from shipping real production backends, not theory
 
 ---
-
-### Contribution Activity
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-201&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
-</p>
-
 
 
 ---
