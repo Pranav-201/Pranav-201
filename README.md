@@ -25,7 +25,7 @@ I design and build backend systems and full-stack products end to end — from d
 - 📈 Shipped products used by **500+ users**, recognized by **Startup India**
 - ⚙️ Comfortable across the stack: React/Next.js on the frontend, Node.js/Express on the backend, MongoDB/PostgreSQL/Redis for data
 - ☁️ Learning **cloud architecture** and **Rust** in depth
-- 💬 Happy to talk system design, backend architecture, or GenAI/RAG systems
+- 💬 Happy to talk system design, backend architecture, or AI systems
 - 📫 **pranav8175@gmail.com**
 
 ---
